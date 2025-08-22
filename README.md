@@ -3,7 +3,7 @@ title: Praktekcloud1
 emoji: 👀
 license: mit
 colorFrom: blue
-colorTo: green
+colorTo: yellow
 sdk: docker
 app_port: 7860
 pinned: false
